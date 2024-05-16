@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Flyweight.cpp.dir/flyweight/Flyweight.cpp.o -o Flyweight.cpp 

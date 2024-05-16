@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ObjectAdapter.cpp.dir/adapter/ObjectAdapter.cpp.o -o ObjectAdapter.cpp 

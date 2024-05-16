@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Mediator.cpp.dir/mediator/Mediator.cpp.o -o Mediator.cpp 
