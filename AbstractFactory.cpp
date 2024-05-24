@@ -145,22 +145,4 @@ public:
 };
 
 
-int main()
-{
-  ConcreteFactoryX *factoryX = new ConcreteFactoryX();
-  ConcreteFactoryY *factoryY = new ConcreteFactoryY();
 
-  ProductA *p1 = factoryX->createProductA();
-  std::cout << "Product: " << p1->getName() << std::endl;
-  
-  ProductA *p2 = factoryY->createProductA();
-  std::cout << "Product: " << p2->getName() << std::endl;
-  
-  delete p1;
-  delete p2;
-  
-  delete factoryX;
-  delete factoryY;
-  
-  return 0;
-}
